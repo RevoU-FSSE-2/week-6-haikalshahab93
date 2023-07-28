@@ -33,6 +33,6 @@ so you can see this if your installed is complete
 After this lets go to your folder application and create the dockerfile 
 so after this your application is have like this
 
-<p align="center">
+<p>
 <img src="https://i.postimg.cc/8cKtQ9Nc/structurfolder-haikal.png" width="60%" alt="structur-folder">
 </p>
