@@ -1,0 +1,12 @@
+{
+  "name": "week-6-haikalshahab93",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img src=\"https://i.morioh.com/2020/01/30/682d7390521c.jpg\" width=\"60%\" alt=\"logo\">\r </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
